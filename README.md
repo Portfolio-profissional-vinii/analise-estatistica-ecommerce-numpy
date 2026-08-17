@@ -1,4 +1,4 @@
-# 📊 Análise Estatística de Navegação e Comportamento de Compra em E-commerce
+# Análise Estatística de Navegação e Comportamento de Compra em E-commerce
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-2.3.2-013243?style=for-the-badge&logo=numpy&logoColor=white)
