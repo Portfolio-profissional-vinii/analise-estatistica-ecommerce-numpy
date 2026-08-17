@@ -11,7 +11,7 @@ O objetivo principal é substituir decisões baseadas em intuição por estraté
 
 ---
 
-## 📌 Sumário
+## Sumário
 
 - [Contexto e Problema de Negócio](#-contexto-e-problema-de-negócio)
 - [Perguntas-Chave de Negócio](#-perguntas-chave-de-negócio)
@@ -23,7 +23,7 @@ O objetivo principal é substituir decisões baseadas em intuição por estraté
 
 ---
 
-## 🎯 Contexto e Problema de Negócio
+## Contexto e Problema de Negócio
 
 ### Contexto
 A plataforma de e-commerce monitora diversas métricas de interação, como número de visitas, tempo de permanência no site, adição de itens ao carrinho e valor total gasto. Contudo, esses dados estavam sendo subutilizados, resultando em métricas superficiais e ações de marketing genéricas.
@@ -35,7 +35,7 @@ A plataforma de e-commerce monitora diversas métricas de interação, como núm
 
 ---
 
-## ❓ Perguntas-Chave de Negócio
+## Perguntas-Chave de Negócio
 
 1. **Qual é o perfil médio do usuário** em termos de visitas, tempo de navegação e valor de compra (ticket médio)?
 2. **Quais são os comportamentos distintos dos clientes de "Alto Valor"?** Eles visitam mais o site ou passam mais tempo navegando?
@@ -44,7 +44,7 @@ A plataforma de e-commerce monitora diversas métricas de interação, como núm
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Python 3.10+**: Linguagem base do projeto.
 - **NumPy (v2.3.2)**: Processamento vetorial de alta performance para cálculos estatísticos (médias, medianas, desvio padrão, matrizes de correlação e indexação booleana).
@@ -54,7 +54,7 @@ A plataforma de e-commerce monitora diversas métricas de interação, como núm
 
 ---
 
-## 🧮 Metodologia e Geração de Dados
+## Metodologia e Geração de Dados
 
 Para simular o ambiente real do e-commerce, foi gerada uma base fictícia contendo **500 usuários** com variáveis interdependentes via distribuições de probabilidade:
 
@@ -65,7 +65,7 @@ Para simular o ambiente real do e-commerce, foi gerada uma base fictícia conten
 
 ---
 
-## 📈 Principais Insights e Resultados
+## Principais Insights e Resultados
 
 ### 1. Perfil Geral do Consumidor
 * **Ticket Médio:** R$ 252,70
@@ -92,7 +92,7 @@ Para simular o ambiente real do e-commerce, foi gerada uma base fictícia conten
 
 ---
 
-## 💡 Recomendações Práticas de Negócio
+## Recomendações Práticas de Negócio
 
 1. **Programa de Fidelidade para Clientes de Alto Valor:**
    - Criar ofertas exclusivas e acesso antecipado a lançamentos para os 245 clientes identificados no segmento de alto valor, visando maximizar o *Customer Lifetime Value* (LTV).
@@ -105,7 +105,7 @@ Para simular o ambiente real do e-commerce, foi gerada uma base fictícia conten
 
 ---
 
-## 📁 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```bash
 ├── data/                    # Dados gerados / exportados (se aplicável)
@@ -118,7 +118,7 @@ Para simular o ambiente real do e-commerce, foi gerada uma base fictícia conten
 
 ---
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 1. **Clone o repositório:**
    ```bash
